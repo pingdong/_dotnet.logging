@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9B71F2B0-2428-4B4C-A181-C9FB3B17F8E5}") = "PingDong.Logging", "src\PingDong.Logging\PingDong.Logging.csproj", "{398A399D-A0CC-48F6-B270-1283390836DE}"
+EndProject
+Project("{1A29C93B-8EEC-41F2-8C86-378119A8EF07}") = "PingDong.Logging.UnitTests", "src\PingDong.Logging.UnitTests\PingDong.Logging.UnitTests.csproj", "{A954322A-5EAC-4C02-B0F8-6FA8EDAC79DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398A399D-A0CC-48F6-B270-1283390836DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398A399D-A0CC-48F6-B270-1283390836DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398A399D-A0CC-48F6-B270-1283390836DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398A399D-A0CC-48F6-B270-1283390836DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A954322A-5EAC-4C02-B0F8-6FA8EDAC79DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A954322A-5EAC-4C02-B0F8-6FA8EDAC79DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A954322A-5EAC-4C02-B0F8-6FA8EDAC79DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A954322A-5EAC-4C02-B0F8-6FA8EDAC79DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E50104B2-834A-4F26-86BB-D8DECD662A6C}
+	EndGlobalSection
+EndGlobal
